@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af48e96e-b470-42c6-8a54-8a81450ac715" name="Changes" comment="third exercise">
+    <list default="true" id="af48e96e-b470-42c6-8a54-8a81450ac715" name="Changes" comment="second exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="e09e301f-4bff-42b8-af82-903abd92e578" />
-        <option name="url" value="https://github.com/leodor-tom/DE-U1-D1.git" />
+        <option name="url" value="https://github.com/leodor-tom/BE-U1-D1.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -90,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696256356431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second exercise">
+      <option name="closed" value="true" />
+      <created>1696256900558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696256900558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first exercise" />
     <MESSAGE value="third exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="third exercise" />
+    <MESSAGE value="second exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="second exercise" />
   </component>
 </project>

@@ -11,6 +11,7 @@ public class Exercise2 {
         System.out.println("inserisci il tuo cognome");
         String cognome = input.nextLine();
         System.out.println(saluto + " " + nome + " " + cognome + "!");
+        System.out.println("!" + cognome + " " + nome + " " + saluto );
         input.close();
     }
 }

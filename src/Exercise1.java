@@ -3,16 +3,16 @@ import java.util.Arrays;
 public class Exercise1 {
     public static void main(String[] args) {
         int risultato = sum(9, 8);
-        System.out.println(risultato);
+        System.out.println("1." + " " + risultato);
         String testo1 = "Ho";
         String testo2 = "anni!";
         int eta = 21;
         String frase = conc(testo1, eta, testo2);
-        System.out.println(frase);
+        System.out.println("2."+" "+ frase);
         String[] arrayDiStringhe = {"ciao", "il",  "nome", "è", "Tommaso"};
         String aggiuntiva = "mio";
         String[] array = inserisci(arrayDiStringhe, aggiuntiva);
-        System.out.println(Arrays.toString(array));
+        System.out.println("3."+" "+Arrays.toString(array));
     }
     public static int sum(int n1, int n2){
         return  n1 * n2;
