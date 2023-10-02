@@ -8,7 +8,7 @@ public class Exercise3 {
         System.out.println(erone(7.4, 3.5, 9.2));
     }
     public static double prm(double n1, double n2){
-        return n1 + n2 * 2;
+        return (n1 + n2) * 2;
     }
     public static int evenOrOdd(int n1){
         if(n1%2 == 0){
